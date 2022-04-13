@@ -1,0 +1,2 @@
+# Pythonda_masalalar
+Python_dasturlash_tilida_masalalar_yechish
